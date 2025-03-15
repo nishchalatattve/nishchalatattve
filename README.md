@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nishchalatattve
+- 👋 Hi, I’m Hercule Poirot
 - 👀 I’m interested in Deep Learning and data analytics
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on ...
